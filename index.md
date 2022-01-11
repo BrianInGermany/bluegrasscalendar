@@ -21,4 +21,4 @@ description: Calendar for Bluegrass and Old-Time Music in Germany
 - 2
 - 3
 
-## [Impressum](https://mainandwine.eu/impressum)
+## [Impressum](/impressum)

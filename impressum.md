@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Impressum
-description: Imprint of the Meetup Group Main & Wine
-url: https://bluegrasscalendar.de/impressum
+description: Imprint of bluegrasscalendar.de
 ---
 
 # Inhaltlich verantwortlich ist:

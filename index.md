@@ -8,7 +8,7 @@ description: Calendar for Bluegrass and Old-Time Music in Germany
 
 ## Camps {: #camps}
 - JAMuary
-- b
+- Other one
 - c
 
 ## Sessions {: #sessions}

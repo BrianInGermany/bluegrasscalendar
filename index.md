@@ -6,12 +6,12 @@ description: Calendar for Bluegrass and Old-Time Music in Germany
 ## Intro
 - example text
 
-## Camps {: #camps}
+## Camps
 - JAMuary
 - Other one
 - c
 
-## Sessions {: #sessions}
+## Sessions
 
 ### Hessen
 - 1
